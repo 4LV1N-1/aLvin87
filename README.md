@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aLvin87!
-- 👀 I’m interested in programming but I am new, I need a mentor teach me.
+- 👀 I’m interested in programming but I am new, I need a guidance.
 - 🌱 I’m currently learning face recognition using java.
 - 💞️ I’m looking for an expert who can teach and guide me in face recognition using java that can save on database when recognize on camera. Im using Xampp, php, java, openCV, phyton, redbean.net in this project. 
 - 📫 How to reach me, email me on alvinbautista26@yahoo.com
